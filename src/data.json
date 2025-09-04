@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Alice", "date": "2023-09-01", "status": "Active", "amount": 1200 },
+  { "id": 2, "name": "Bob", "date": "2023-09-02", "status": "Inactive", "amount": 950 },
+  { "id": 3, "name": "Charlie", "date": "2023-09-05", "status": "Active", "amount": 1500 }
+  
+]
